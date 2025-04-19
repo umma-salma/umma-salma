@@ -33,7 +33,7 @@
 
 ## 📚 Publications
 
-**🖋️ [BERT-Based Personalized Course Recommendation System From Online Learning Platform]**(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qzQNXTsAAAAJ&authuser=1&citation_for_view=qzQNXTsAAAAJ:u5HHmVD_uO8C) 
+**🖋️ [BERT-Based Personalized Course Recommendation System From Online Learning Platform](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qzQNXTsAAAAJ&authuser=1&citation_for_view=qzQNXTsAAAAJ:u5HHmVD_uO8C)**  
 *Kamelia Zaman Moon, **Umma Salma**, Mohammad Shorif Uddin*  
 📍 *ICEEICT 2024 Conference Paper*
 
