@@ -1,91 +1,121 @@
-# 👩‍💻 Umma Salma
+# 🌟 Umma Salma
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!%20I'm%20Umma%20Salma&fontSize=30&fontAlignY=40)
 
 📍 Baton Rouge, Louisiana  
-📧 [salma.stu2017@juniv.edu](mailto:salma.stu2017@juniv.edu) •  
+📧 [salma.stu2017@juniv.edu](mailto:salma.stu2017@juniv.edu)  
 🌐 [GitHub](https://github.com/umma-salma) • [LinkedIn](https://www.linkedin.com/in/umma-salma-34a239196/)
 
 ---
 
 ## 🧑‍🎓 About Me
 
-I am a driven and curious Computer Science graduate and a prospective Ph.D. student with a strong passion for exploring the evolving intersection of **Software System Security**, **Intelligent Computing**, and **Complex Software Architectures**. From my early curiosity about how systems work to my recent research on AI-enhanced course recommendation and malware detection, I am focused on building secure and resilient computing systems that make meaningful impacts.
+> 🎓 I’m a Computer Science graduate and Ph.D. aspirant who thrives at the intersection of **Security**, **AI**, and **Software Engineering**. From dissecting Turbo C code in high school to deploying BERT on minimal hardware, my journey has always centered around turning curiosity into creation.
 
 ---
 
 ## 🎯 Research Interests
 
-- Software System Security & Code Robustness  
-- Artificial Intelligence & Intelligent Systems  
-- Secure Software Design and Architecture  
-- Human-Computer Interaction  
+🔐 Software System Security & Code Robustness  
+🧠 Artificial Intelligence & Intelligent Systems  
+🛠️ Secure Software Design and Architecture  
+💡 Human-Computer Interaction  
 
 ---
 
 ## 🎓 Education
 
-**Jahangirnagar University**, Bangladesh  
+**🎓 Jahangirnagar University**, Bangladesh  
 **B.Sc. in Computer Science and Engineering** *(Feb 2018 – Jun 2023)*  
-🎓 **CGPA:** 3.63/4.00  
-📘 **Thesis:** *BERT-Based Personalized Course Recommendation System From Online Learning Platform*
+📈 **CGPA:** 3.63/4.00  
+📝 **Thesis:** *BERT-Based Personalized Course Recommendation System*
 
 ---
 
 ## 📚 Publications
 
-- **BERT-Based Personalized Course Recommendation System from Online Learning Platform**  
-  *Kamelia Zaman Moon, Umma Salma, Mohammad Shorif Uddin*  
-  2024 6th International Conference on Electrical Engineering and Information and Communication Technology (ICEEICT)
+**🖋️ BERT-Based Personalized Course Recommendation System**  
+*Kamelia Zaman Moon, Umma Salma, Mohammad Shorif Uddin*  
+📍 *ICEEICT 2024 Conference Paper*
 
 ---
 
 ## 🔬 Research Experience
 
-**Research Assistant**, JU Data Mining Lab *(Aug 2023 – Present)*  
-- Developed advanced **malware detection models** using code-aware pre-tokenization techniques to preserve semantic structure and resist obfuscation.  
-- Investigated AI-driven approaches to improve software **code robustness**, including error detection and recovery techniques in system software.
+**🧪 Research Assistant**, JU Data Mining Lab *(Aug 2023 – Present)*  
+- Built a semantic-aware **malware detection model** using contextual code tokenization.  
+- Developed error-resistant, AI-driven techniques for **code robustness** in critical software.
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-### 📘 Online Class and Examination System *(Python)*
-Developed a remote learning support system using Agile methodologies during COVID-19.
-- Tools: Sphinx, Git, Trello, Slack, Toggl
+### 🧑‍🏫 Online Class & Exam System *(Python)*
+🛠️ Tools: Git, Trello, Sphinx, Slack, Toggl  
+Agile-based remote class system built during COVID-19 with full SDLC and documentation pipeline.
 
-### 🌐 WebMed – Online Medicine Service *(PHP)*
-Built a full-stack site for medicine lookup, hospital search, and appointment booking.
+### 💊 WebMed *(PHP)*
+Full-stack platform for medicine info, hospital search & appointment booking.
 
-### 📝 Personal Diary Management System *(C++)*
-Secure diary app with encryption, file parsing, and structured file handling.
+### 📝 Diary Management *(C++)*
+Versatile encrypted file-handling application built with a low-level design approach.
 
-### 🧠 AI-Based Course Recommender *(Python, Transformers)*
-Built a lightweight web service using BERT-based models for personalized course recommendations using CPU-only inference.
-
----
-
-## 💻 Technical Skills
-
-- **Languages:** Python, C, C++, JavaScript  
-- **Frameworks:** Django, Flask  
-- **Web Development:** HTML, CSS, Bootstrap, Node.js  
-- **ML/NLP:** Scikit-learn, OpenCV, NLTK, Transformers  
-- **Tools:** Git, VS Code, LaTeX, Jupyter, PyCharm  
-- **Platforms:** Linux, GitHub, GitLab  
+### 🤖 BERT-Based Recommender *(Python)*
+CPU-efficient BERT implementation for course recommendation; deployed via Flask.
 
 ---
 
-## 🏆 Leadership & Community
+## 💻 Tech Toolbox
 
-- 🧑‍🏫 **Microsoft Learn Student Ambassador (2020–2021):** Led virtual workshops and mentored students during COVID-19.  
-- 👩‍💼 **Team Lead**, Online Class System Project: Achieved highest grade for SDLC implementation and Agile execution.  
-- 🎮 **Volunteer**, JU CSE Fest: Coordinated programming and gaming events.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏆 Leadership & Involvement
+
+- 🎓 **Team Lead**, SDLC Software Project: Topped evaluation with agile-driven remote exam system.  
+- 🌐 **Microsoft Learn Student Ambassador (2020–2021):** Hosted virtual tech workshops, built community.  
+- 🎮 **JU CSE Fest Volunteer:** Managed contests, coordinated events.
 
 ---
 
-## ✍️ Interests
+## ✍️ Other Interests
 
-- 📖 Technical Blogging ([Medium](https://medium.com/))  
-- 🎯 Programming Contests  
-- 🤖 AI Ethics & Trustworthy Systems
+🧾 Technical Writing ([Medium](https://medium.com/))  
+🏁 Competitive Programming  
+🧠 Trustworthy AI & Secure ML Systems  
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umma-salma&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umma-salma&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umma-salma&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🐍 Contribution Graph Snake
+
+![snake gif](https://github.com/umma-salma/umma-salma/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> ⚙️ To enable this, use [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) and add your Medium RSS feed!
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
