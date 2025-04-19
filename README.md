@@ -1,5 +1,5 @@
 # 🌟 Umma Salma
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi!!%20I'm%20There%20Buddies!&fontSize=30&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20There!%20&fontSize=30&fontAlignY=40)
 
 📍 Baton Rouge, Louisiana  
 📧 [salma.stu2017@juniv.edu](mailto:salma.stu2017@juniv.edu)  
