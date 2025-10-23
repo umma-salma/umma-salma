@@ -41,7 +41,7 @@
 
 ## 🔬 Research Experience
 
-**🧪 Research Assistant**, JU Data Mining Lab *(Aug 2023 – Feb 2025)*  
+**🧪 Research Assistant**, JU Data Mining Lab 
 - Semantic-aware malware detection model using contextual code tokenization.  
 - Error-resistant, AI-driven techniques for code robustness in critical software.
 
